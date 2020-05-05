@@ -1,3 +1,3 @@
 # React-small-Projects
 
-#create rect app
+In this repository i hv made some small react project to polish my react skills... :))
